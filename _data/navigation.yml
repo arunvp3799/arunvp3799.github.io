@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects & Publications"
+    url: /projects/
+  - title: "Resume / CV"
+    url: /resume/
+  - title: "Blog"
+    url: /blog/
